@@ -387,7 +387,7 @@ select::-ms-expand {
    height: 600px;
    top:50px;
    margin: 0 auto;
-   border: 1px solid red;
+/*    border: 1px solid red; */
    /* overflow: hidden; */
    /* background: #e7e6e4; */
 }
@@ -396,7 +396,7 @@ select::-ms-expand {
    overflow: hidden;
    height:390px;
    margin: 0 auto;
-   border:1px solid red;
+/*    border:1px solid red; */
    margin-bottom: 20px;
 }
 #rewards .join{
@@ -502,7 +502,7 @@ select::-ms-expand {
    height: 1500px;
    top: 25px;
    margin: 0 auto;
-   border: 1px solid red;
+/*    border: 1px solid red; */
    /* overflow: hidden; */
    /* background: #e7e6e4; */
 }
@@ -511,7 +511,7 @@ select::-ms-expand {
    width:1000px;
    height:800px;
    margin:0 auto;
-   border:1px solid red;
+/*    border:1px solid red; */
    
 }
 .sns_photo > li {
@@ -580,7 +580,7 @@ select::-ms-expand {
 .sns_photo .s6:hover,
 .sns_photo .s7:hover
 {
-   border: 1px solid red;
+/*    border: 1px solid red; */
    opacity: 1;
 }
 
